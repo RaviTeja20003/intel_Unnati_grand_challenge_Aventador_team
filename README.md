@@ -9,7 +9,9 @@
 6)seperate-kernel
 
 # GRAPHS 
+
 ![image](https://github.com/RaviTeja20003/intel_Unnati_grand_challenge_Aventador_team/assets/103447565/cf7f11cb-ba06-42dc-ace1-c87c43641ab4)
+
 Role of DBSCAN Algorithm:
 
 Clustering Alerts: The primary role of the DBSCAN algorithm is to cluster ADAS (Advanced Driver Assistance Systems) alerts based on their geographical coordinates (latitude and longitude). It groups alerts that are spatially close to each other into clusters.
